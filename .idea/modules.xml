@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fukikomu.iml" filepath="$PROJECT_DIR$/Fukikomu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fukikomu_api.iml" filepath="$PROJECT_DIR$/.idea/modules/Fukikomu_api.iml" group="Fukikomu" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fukikomu_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Fukikomu_main.iml" group="Fukikomu" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fukikomu_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Fukikomu_test.iml" group="Fukikomu" />
+    </modules>
+  </component>
+</project>

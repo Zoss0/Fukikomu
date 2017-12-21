@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fukikomu",
+  "name": "Fukikomu",
+  "description": "A mod about plants.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Zoss"],
+  "credits": "Zoss",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
